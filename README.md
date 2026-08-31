@@ -1,2 +1,2 @@
-# Iona-s-Obsidian-DnD-Character-Sheet-Template
-This is a Template to easily create a DnD Character Sheet inside an Obsidian note, by using the file's properties, the DnD-UI-Toolkit plugin and my own DnD-Character-Sheet-Helper plugin.
+# Iona's Obsidian DnD Character Sheet Template
+This is a Template to easily create a DnD Character Sheet inside an Obsidian note, by using the file's properties as the main way to edit the character and to visualise everything it uses two plugins: the [DnD-UI-Toolkit](https://github.com/hay-kot/obsidian-dnd-ui-toolkit) plugin from [hay-kot](https://github.com/hay-kot) and my own [DnD-Character-Sheet-Helper](https://github.com/IonasPolitis/DnD-Character-Sheet-Helper) plugin.
