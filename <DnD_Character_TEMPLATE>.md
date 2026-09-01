@@ -21,6 +21,7 @@ DnD_constitution:
 DnD_intelligence:
 DnD_wisdom:
 DnD_charisma:
+DnD_hide_feature:
 DnD_weapon:
 DnD_weapon_damage:
 DnD_armor:
@@ -144,6 +145,7 @@ race: frontmatter.DnD_race
 race-lineage: frontmatter.DnD_race_lineage
 background: frontmatter.DnD_background
 extra-feats: frontmatter.DnD_extra_feats
+hide: frontmatter.DnD_hide_feature
 ```
 
 <font size=5>**Consumables:**</font>
