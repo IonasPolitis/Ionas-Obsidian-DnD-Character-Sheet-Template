@@ -22,6 +22,8 @@ DnD_intelligence:
 DnD_wisdom:
 DnD_charisma:
 DnD_hide_feature:
+DnD_class-equipment:
+DnD_background-equipment:
 DnD_weapon:
 DnD_weapon_damage:
 DnD_armor:
@@ -124,10 +126,10 @@ bonuses:
 
 ```dnd-inventory
 class: frontmatter.DnD_class
-class-equipment: A
+class-equipment: frontmatter.DnD_class-equipment
 class-chosen-items: frontmatter.DnD_class-chosen-items
 background: frontmatter.DnD_background
-background-equipment: A
+background-equipment: frontmatter.DnD_background-equipment
 background-chosen-items: frontmatter.DnD_background-chosen-items
 weapon: frontmatter.DnD_weapon
 weapon_damage: frontmatter.DnD_weapon_damage
